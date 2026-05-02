@@ -1,7 +1,7 @@
 # hw5-Manny_Sotero — lab-report-analyzer
 
 ## Video Walkthrough
-[Insert video link here]
+[https://youtu.be/7QBD3ELvZWY](https://youtu.be/7QBD3ELvZWY)
 
 ---
 
